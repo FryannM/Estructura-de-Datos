@@ -70,7 +70,7 @@ void insertarDato(int n){
     printf("%.16g milliseconds\n", secs * 1000.0);
 
 }
-	  
+	  // Fryann Martinez
 
 		
 
